@@ -1,1 +1,1 @@
-# Assignment_1
+Javascript Assignment 1
